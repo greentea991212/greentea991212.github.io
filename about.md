@@ -1,5 +1,5 @@
 ---
-title: 안녕하세요 :P
+title: 안녕하세요!
 permalink: /about/
 layout: page
 excerpt: 반갑습니다!
