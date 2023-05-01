@@ -11,20 +11,20 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Kim Minhyuk # author name
+  name: Kim-Minhyuk # author name
   bio: >- # tell to the world
     The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
     meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
   username: username # general username
-  github: github_username # github username
+  github: greentea991212 # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  email: green_tea@handong.ac.kr # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://greentea991212.github.io/" #
+baseurl: "https://greentea991212.github.io/" #
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
@@ -32,7 +32,7 @@ fb_appid:
 # Collection setting
 collections:
   posts:
-    output: true
+    output: false
 
 # Markdown settings
 markdown: kramdown
