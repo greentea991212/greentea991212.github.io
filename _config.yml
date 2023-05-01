@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Kim-Minhyuk # author name
   bio: >- # tell to the world
-     Handong Global Univ.<br>CSEE<br>21900103<br>25 years old
+     Handong Global Univ.<br>CSEE<br>21900103<br>25 years old<br>
      <a href="https://github.com/greentea991212" target="_blank" rel="noopener">@My github</a>.
   username: username # general username
   github: greentea991212 # github username
