@@ -10,7 +10,7 @@ comments: ture
 
 저 스스로가 항상 행복하고 사랑이 넘쳐, 저로 인해 주변분들 또한 행복해질 수 있는 하루하루를 살고 싶습니다. :)
 
-이 곳을 [클릭](http://github.com/piharpi/jekyll-klise/issues/new) 하시면, 저의 Github 계정에 방문 하실 수 있습니다.
+이 곳을 [클릭](https://github.com/greentea991212) 하시면, 저의 Github 계정에 방문 하실 수 있습니다.
 
 **may u needs ✨**
 
